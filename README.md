@@ -15,14 +15,20 @@ I'm a developer passionate about creating innovative solutions and sharing knowl
   <img src="https://img.shields.io/badge/-C++-blue?logo=cplusplus">
 </div>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=skykhs3)](https://solved.ac/profile/skykhs3/)
+<a href="https://solved.ac/profile/skykhs3/">
+  <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=skykhs3" alt="skykhs3's GitHub Activity Graph" style="width: 400px;"/>
+</a>
 
 ## 📊 GitHub Stats
 
-[![skykhs3's GitHub stats](https://github-readme-stats.vercel.app/api?username=skykhs3&show_icons=true&theme=dark)](https://github.com/skykhs3)
+<a href="https://github.com/skykhs3">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=skykhs3&show_icons=true&theme=dark" alt="skykhs3's GitHub Activity Graph" style="width: 400px;"/>
+</a>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=skykhs3&theme=dark)](https://git.io/streak-stats)
+<a href="https://github.com/skykhs3">
+  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=skykhs3&theme=dark" alt="skykhs3's GitHub Activity Graph" style="width: 400px;"/>
+</a>
 
-  
-![skykhs3's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=skykhs3&theme=react-dark)
-
+<a href="https://github.com/skykhs3">
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=skykhs3&theme=react-dark" alt="skykhs3's GitHub Activity Graph" style="width: 800px;"/>
+</a>
