@@ -25,10 +25,10 @@ I'm a developer passionate about creating innovative solutions and sharing knowl
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=skykhs3&show_icons=true&theme=dark" alt="skykhs3's GitHub Activity Graph" style="width: 400px;"/>
 </a>
 
-<a href="https://github.com/skykhs3">
-  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=skykhs3&theme=dark" alt="skykhs3's GitHub Activity Graph" style="width: 400px;"/>
+<a href="https://github.com/skykhs3" style="width: 400px; height:167px">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skykhs3&theme=dark&layout=compact" alt="skykhs3's GitHub Activity Graph"/>
 </a>
 
 <a href="https://github.com/skykhs3">
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=skykhs3&theme=react-dark" alt="skykhs3's GitHub Activity Graph" style="width: 800px;"/>
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=skykhs3&theme=react-dark" alt="skykhs3's GitHub Activity Graph" style="width: 700px;"/>
 </a>
